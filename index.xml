@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>@wilberhg</title>
+    <link>http://wilberhg.github.io/</link>
+    <description>Recent content on @wilberhg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© Wilberhg</copyright>
+    <lastBuildDate>Wed, 14 Sep 2022 21:50:07 -0300</lastBuildDate><atom:link href="http://wilberhg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guia de Instalação - Apache Airflow</title>
+      <link>http://wilberhg.github.io/posts/guia-de-instalacao-apache-airflow/</link>
+      <pubDate>Wed, 14 Sep 2022 21:50:07 -0300</pubDate>
+      
+      <guid>http://wilberhg.github.io/posts/guia-de-instalacao-apache-airflow/</guid>
+      <description>Criar a variável de ambiente contendo o diretório em que será instalado o Airflow: export AIRFLOW_HOME=~/airflow Criar constante contendo a versão do Airflow desejada: AIRFLOW_VERSION=2.</description>
+    </item>
+    
+    <item>
+      <title>My Fist Post</title>
+      <link>http://wilberhg.github.io/posts/my-fist-post/</link>
+      <pubDate>Wed, 14 Sep 2022 20:15:18 -0300</pubDate>
+      
+      <guid>http://wilberhg.github.io/posts/my-fist-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>http://wilberhg.github.io/about/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://wilberhg.github.io/about/</guid>
+      <description>Trajetória com programação inicializada através do JavaScript e AutoIt para uso na ferramenta de RPA AutomationEdge (plataforma baseada na engine do Pentaho ETL).</description>
+    </item>
+    
+  </channel>
+</rss>
