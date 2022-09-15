@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on @wilberhg</title>
-    <link>http://wilberhg.github.io/posts/</link>
+    <link>https://wilberhg.github.io/posts/</link>
     <description>Recent content in Posts on @wilberhg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© Wilberhg</copyright>
-    <lastBuildDate>Wed, 14 Sep 2022 21:50:07 -0300</lastBuildDate><atom:link href="http://wilberhg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Sep 2022 21:50:07 -0300</lastBuildDate><atom:link href="https://wilberhg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guia de Instalação - Apache Airflow</title>
-      <link>http://wilberhg.github.io/posts/guia-de-instalacao-apache-airflow/</link>
+      <link>https://wilberhg.github.io/posts/guia-de-instalacao-apache-airflow/</link>
       <pubDate>Wed, 14 Sep 2022 21:50:07 -0300</pubDate>
       
-      <guid>http://wilberhg.github.io/posts/guia-de-instalacao-apache-airflow/</guid>
+      <guid>https://wilberhg.github.io/posts/guia-de-instalacao-apache-airflow/</guid>
       <description>Criar a variável de ambiente contendo o diretório em que será instalado o Airflow: export AIRFLOW_HOME=~/airflow Criar constante contendo a versão do Airflow desejada: AIRFLOW_VERSION=2.</description>
     </item>
     
     <item>
       <title>My Fist Post</title>
-      <link>http://wilberhg.github.io/posts/my-fist-post/</link>
+      <link>https://wilberhg.github.io/posts/my-fist-post/</link>
       <pubDate>Wed, 14 Sep 2022 20:15:18 -0300</pubDate>
       
-      <guid>http://wilberhg.github.io/posts/my-fist-post/</guid>
+      <guid>https://wilberhg.github.io/posts/my-fist-post/</guid>
       <description></description>
     </item>
     
